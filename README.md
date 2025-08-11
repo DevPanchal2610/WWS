@@ -1,4 +1,4 @@
-# ![Work With Skills Banner](/public/screenshots/banner.png)
+# ![Work With Skills Banner](screenshots/banner.png)
 
 <div align="center">
   
